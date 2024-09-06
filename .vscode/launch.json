@@ -1,0 +1,2100 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "A1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "A2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "A3",
+            "request": "launch",
+            "mainClass": "A3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "A4",
+            "request": "launch",
+            "mainClass": "A4",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "A5",
+            "request": "launch",
+            "mainClass": "A5",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AA",
+            "request": "launch",
+            "mainClass": "AA",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Abstract",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Account_Test",
+            "request": "launch",
+            "mainClass": "Account_Test",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Activity_Selection",
+            "request": "launch",
+            "mainClass": "Activity_Selection",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Activity_Selection2",
+            "request": "launch",
+            "mainClass": "Activity_Selection2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AdditionofTwoNumbers",
+            "request": "launch",
+            "mainClass": "AdditionofTwoNumbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Ans",
+            "request": "launch",
+            "mainClass": "Ans",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofCircle",
+            "request": "launch",
+            "mainClass": "AreaofCircle",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofParallelogram",
+            "request": "launch",
+            "mainClass": "AreaofParallelogram",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofRectangle",
+            "request": "launch",
+            "mainClass": "AreaofRectangle",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofRhombus",
+            "request": "launch",
+            "mainClass": "AreaofRhombus",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AreaofTriangle",
+            "request": "launch",
+            "mainClass": "AreaofTriangle",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong_number_between_2_numbers",
+            "request": "launch",
+            "mainClass": "Armstrong_number_between_2_numbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayFromPermutation",
+            "request": "launch",
+            "mainClass": "ArrayFromPermutation",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_Recursion",
+            "request": "launch",
+            "mainClass": "ArrayList_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_targetarray",
+            "request": "launch",
+            "mainClass": "ArrayList_targetarray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_withoutArguments_Recursion",
+            "request": "launch",
+            "mainClass": "ArrayList_withoutArguments_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "Ascii",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AverageMarks",
+            "request": "launch",
+            "mainClass": "AverageMarks",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "AverageofN_numbers",
+            "request": "launch",
+            "mainClass": "AverageofN_numbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "BattingAverage",
+            "request": "launch",
+            "mainClass": "BattingAverage",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch_Using_Recursion",
+            "request": "launch",
+            "mainClass": "BinarySearch_Using_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Practice",
+            "request": "launch",
+            "mainClass": "Binary_Practice",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search_using_recursion",
+            "request": "launch",
+            "mainClass": "Binary_Search_using_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Trees",
+            "request": "launch",
+            "mainClass": "Binary_Trees",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort_recursion",
+            "request": "launch",
+            "mainClass": "BubbleSort_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_Sort",
+            "request": "launch",
+            "mainClass": "Bubble_Sort",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Buffer",
+            "request": "launch",
+            "mainClass": "Buffer",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Build_BST",
+            "request": "launch",
+            "mainClass": "Build_BST",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Build_Tree",
+            "request": "launch",
+            "mainClass": "Build_Tree",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "C1",
+            "request": "launch",
+            "mainClass": "C1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CC",
+            "request": "launch",
+            "mainClass": "CC",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CC1",
+            "request": "launch",
+            "mainClass": "CC1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CGPA_Calculator",
+            "request": "launch",
+            "mainClass": "CGPA_Calculator",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CalculateElectricityBill",
+            "request": "launch",
+            "mainClass": "CalculateElectricityBill",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Case_Checker",
+            "request": "launch",
+            "mainClass": "Case_Checker",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "Ceiling",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Challenge1",
+            "request": "launch",
+            "mainClass": "Challenge1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Challenge2",
+            "request": "launch",
+            "mainClass": "Challenge2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CheckAbstract",
+            "request": "launch",
+            "mainClass": "CheckAbstract",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Circular_LinkedList",
+            "request": "launch",
+            "mainClass": "Circular_LinkedList",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CircumferenceAndAreaofCircleusingFunction",
+            "request": "launch",
+            "mainClass": "CircumferenceAndAreaofCircleusingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Codeforces",
+            "request": "launch",
+            "mainClass": "Codeforces",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Command_Line_Arguments",
+            "request": "launch",
+            "mainClass": "Command_Line_Arguments",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CommissionPercentage",
+            "request": "launch",
+            "mainClass": "CommissionPercentage",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CompoundInterest",
+            "request": "launch",
+            "mainClass": "CompoundInterest",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ConcetenationOfArray",
+            "request": "launch",
+            "mainClass": "ConcetenationOfArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Counting_NoOfBits_usingFormula",
+            "request": "launch",
+            "mainClass": "Counting_NoOfBits_usingFormula",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Counting_noOfBits",
+            "request": "launch",
+            "mainClass": "Counting_noOfBits",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Countzeroes_recursion",
+            "request": "launch",
+            "mainClass": "Countzeroes_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cp1",
+            "request": "launch",
+            "mainClass": "Cp1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cp2",
+            "request": "launch",
+            "mainClass": "Cp2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cp3",
+            "request": "launch",
+            "mainClass": "Cp3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "CreatePhone",
+            "request": "launch",
+            "mainClass": "CreatePhone",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cses4",
+            "request": "launch",
+            "mainClass": "Cses4",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cses5",
+            "request": "launch",
+            "mainClass": "Cses5",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Custom_Queue",
+            "request": "launch",
+            "mainClass": "Custom_Queue",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Custom_Stack",
+            "request": "launch",
+            "mainClass": "Custom_Stack",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cyclic_sort",
+            "request": "launch",
+            "mainClass": "Cyclic_sort",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Cylinder",
+            "request": "launch",
+            "mainClass": "Cylinder",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Deadlock",
+            "request": "launch",
+            "mainClass": "Deadlock",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "DepricationofValues",
+            "request": "launch",
+            "mainClass": "DepricationofValues",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "DequeInBuilt",
+            "request": "launch",
+            "mainClass": "DequeInBuilt",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Directed",
+            "request": "launch",
+            "mainClass": "Directed",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "DiscountofProduct",
+            "request": "launch",
+            "mainClass": "DiscountofProduct",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "DistanceBetweenTwoPoints",
+            "request": "launch",
+            "mainClass": "DistanceBetweenTwoPoints",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Distinct_Elements",
+            "request": "launch",
+            "mainClass": "Distinct_Elements",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Div31",
+            "request": "launch",
+            "mainClass": "Div31",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Doubly_LinkedList",
+            "request": "launch",
+            "mainClass": "Doubly_LinkedList",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "EligiblityForVoteusingFunction",
+            "request": "launch",
+            "mainClass": "EligiblityForVoteusingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddusingFunction",
+            "request": "launch",
+            "mainClass": "EvenOddusingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd",
+            "request": "launch",
+            "mainClass": "Even_Odd",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FactorialUsingFunction",
+            "request": "launch",
+            "mainClass": "FactorialUsingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_Using_Recusion",
+            "request": "launch",
+            "mainClass": "Factorial_Using_Recusion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Factors",
+            "request": "launch",
+            "mainClass": "Factors",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FactorsofNumber",
+            "request": "launch",
+            "mainClass": "FactorsofNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_Series",
+            "request": "launch",
+            "mainClass": "Fibonacci_Series",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_Series_using_recursion",
+            "request": "launch",
+            "mainClass": "Fibonacci_Series_using_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_number",
+            "request": "launch",
+            "mainClass": "Fibonacci_number",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_number_using_formula",
+            "request": "launch",
+            "mainClass": "Fibonacci_number_using_formula",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FindPowerofaNumber_Recursion",
+            "request": "launch",
+            "mainClass": "FindPowerofaNumber_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Find_In_Mountain_Array",
+            "request": "launch",
+            "mainClass": "Find_In_Mountain_Array",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Find_ith_Bit",
+            "request": "launch",
+            "mainClass": "Find_ith_Bit",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FirstUppercase_Recursion",
+            "request": "launch",
+            "mainClass": "FirstUppercase_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Floor",
+            "request": "launch",
+            "mainClass": "Floor",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Fractional_Knapsack",
+            "request": "launch",
+            "mainClass": "Fractional_Knapsack",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FrogJump",
+            "request": "launch",
+            "mainClass": "FrogJump",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "FutureInvestmentValue",
+            "request": "launch",
+            "mainClass": "FutureInvestmentValue",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "GCD_Recursion",
+            "request": "launch",
+            "mainClass": "GCD_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "GradingOfMarks",
+            "request": "launch",
+            "mainClass": "GradingOfMarks",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNumberInArray",
+            "request": "launch",
+            "mainClass": "GreatestNumberInArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNumberOfCandies",
+            "request": "launch",
+            "mainClass": "GreatestNumberOfCandies",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Greatest_number",
+            "request": "launch",
+            "mainClass": "Greatest_number",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Greeting_input",
+            "request": "launch",
+            "mainClass": "Greeting_input",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "HCF",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "HCF_2",
+            "request": "launch",
+            "mainClass": "HCF_2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Hash_Map",
+            "request": "launch",
+            "mainClass": "Hash_Map",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ConnectNRopes",
+            "request": "launch",
+            "mainClass": "Heaps.ConnectNRopes",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "Heaps.HeapSort",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "Heaps.Insert",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NearestCars",
+            "request": "launch",
+            "mainClass": "Heaps.NearestCars",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Pq",
+            "request": "launch",
+            "mainClass": "Heaps.Pq",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PqObjects",
+            "request": "launch",
+            "mainClass": "Heaps.PqObjects",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "Heaps.SlidingWindowMaximum",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "WeakestSoldier",
+            "request": "launch",
+            "mainClass": "Heaps.WeakestSoldier",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Hello_World",
+            "request": "launch",
+            "mainClass": "Hello_World",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Infinity_Array",
+            "request": "launch",
+            "mainClass": "Infinity_Array",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Inputs",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_Sort",
+            "request": "launch",
+            "mainClass": "Insertion_Sort",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "InterProcess",
+            "request": "launch",
+            "mainClass": "InterProcess",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Interleaving",
+            "request": "launch",
+            "mainClass": "Interleaving",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Intinerary",
+            "request": "launch",
+            "mainClass": "Intinerary",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LIS",
+            "request": "launch",
+            "mainClass": "LIS",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumberuntil0",
+            "request": "launch",
+            "mainClass": "LargestNumberuntil0",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LargestSubarrayOfSumK",
+            "request": "launch",
+            "mainClass": "LargestSubarrayOfSumK",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LazyPropogation",
+            "request": "launch",
+            "mainClass": "LazyPropogation",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear_Checker",
+            "request": "launch",
+            "mainClass": "LeapYear_Checker",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Length_Cycle_LinkedList",
+            "request": "launch",
+            "mainClass": "Length_Cycle_LinkedList",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search",
+            "request": "launch",
+            "mainClass": "Linear_Search",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search_Range",
+            "request": "launch",
+            "mainClass": "Linear_Search_Range",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search_Recursion",
+            "request": "launch",
+            "mainClass": "Linear_Search_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Linked_HashMap",
+            "request": "launch",
+            "mainClass": "Linked_HashMap",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "MagicNumber_Bit",
+            "request": "launch",
+            "mainClass": "MagicNumber_Bit",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Majority_Element",
+            "request": "launch",
+            "mainClass": "Majority_Element",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "MaxAreaInHistogram",
+            "request": "launch",
+            "mainClass": "MaxAreaInHistogram",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin_usingFunction",
+            "request": "launch",
+            "mainClass": "MaxMin_usingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Maze1_Recursion",
+            "request": "launch",
+            "mainClass": "Maze1_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Maze2_Recursion",
+            "request": "launch",
+            "mainClass": "Maze2_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Maze3_Recursion",
+            "request": "launch",
+            "mainClass": "Maze3_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Maze4_Backtracking",
+            "request": "launch",
+            "mainClass": "Maze4_Backtracking",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Maze5_Backtracking",
+            "request": "launch",
+            "mainClass": "Maze5_Backtracking",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort_Inplace_Recursion",
+            "request": "launch",
+            "mainClass": "MergeSort_Inplace_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort_Recursion",
+            "request": "launch",
+            "mainClass": "MergeSort_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Min_Max_Recursion",
+            "request": "launch",
+            "mainClass": "Min_Max_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Number",
+            "request": "launch",
+            "mainClass": "Minimum_Number",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NKnights_Backtracking",
+            "request": "launch",
+            "mainClass": "NKnights_Backtracking",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NQueens_Backtracking",
+            "request": "launch",
+            "mainClass": "NQueens_Backtracking",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "N_Queens",
+            "request": "launch",
+            "mainClass": "N_Queens",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Next_Greater",
+            "request": "launch",
+            "mainClass": "Next_Greater",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "No_of_occurences",
+            "request": "launch",
+            "mainClass": "No_of_occurences",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Nonrepeating",
+            "request": "launch",
+            "mainClass": "Nonrepeating",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfGoodPairs",
+            "request": "launch",
+            "mainClass": "NumberOfGoodPairs",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NumberofEvenDaysonAugust",
+            "request": "launch",
+            "mainClass": "NumberofEvenDaysonAugust",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "NumberofSetBits",
+            "request": "launch",
+            "mainClass": "NumberofSetBits",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Odd_Even_using_Bit",
+            "request": "launch",
+            "mainClass": "Odd_Even_using_Bit",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Order_Agnostics_Binary_Search",
+            "request": "launch",
+            "mainClass": "Order_Agnostics_Binary_Search",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Pair_Sum",
+            "request": "launch",
+            "mainClass": "Pair_Sum",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Pair_Sum2",
+            "request": "launch",
+            "mainClass": "Pair_Sum2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeUsingFunctions",
+            "request": "launch",
+            "mainClass": "PalindromeUsingFunctions",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_Checker",
+            "request": "launch",
+            "mainClass": "Palindrome_Checker",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_recursion",
+            "request": "launch",
+            "mainClass": "Palindrome_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeofNumber",
+            "request": "launch",
+            "mainClass": "PalindromeofNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Pangram_Checker",
+            "request": "launch",
+            "mainClass": "Pangram_Checker",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PermutationandCombination",
+            "request": "launch",
+            "mainClass": "PermutationandCombination",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Permutations_Recursion",
+            "request": "launch",
+            "mainClass": "Permutations_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Pick_Toys",
+            "request": "launch",
+            "mainClass": "Pick_Toys",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PowerOf2_usingBit",
+            "request": "launch",
+            "mainClass": "PowerOf2_usingBit",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PowerofaNumber",
+            "request": "launch",
+            "mainClass": "PowerofaNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNotPrimeUsingFunction",
+            "request": "launch",
+            "mainClass": "PrimeOrNotPrimeUsingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Prime_Recursion",
+            "request": "launch",
+            "mainClass": "Prime_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PrimenumbersBetween2NumbersUsingFunctions",
+            "request": "launch",
+            "mainClass": "PrimenumbersBetween2NumbersUsingFunctions",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ProductOf2NumbersUsingFunction",
+            "request": "launch",
+            "mainClass": "ProductOf2NumbersUsingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Productof1ton_recursion",
+            "request": "launch",
+            "mainClass": "Productof1ton_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "PythogoreanTripletUsingFunction",
+            "request": "launch",
+            "mainClass": "PythogoreanTripletUsingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "QueueInBuilt",
+            "request": "launch",
+            "mainClass": "QueueInBuilt",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain",
+            "request": "launch",
+            "mainClass": "QueueMain",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Queue_Reverse",
+            "request": "launch",
+            "mainClass": "Queue_Reverse",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "QueueusingStacks",
+            "request": "launch",
+            "mainClass": "QueueusingStacks",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort_Recursion",
+            "request": "launch",
+            "mainClass": "QuickSort_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_2",
+            "request": "launch",
+            "mainClass": "Recursion_2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "ReverseAString",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Stack",
+            "request": "launch",
+            "mainClass": "Reverse_Stack",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseaNumber_recursion",
+            "request": "launch",
+            "mainClass": "ReverseaNumber_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Reversed_number",
+            "request": "launch",
+            "mainClass": "Reversed_number",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ReversingAnArray",
+            "request": "launch",
+            "mainClass": "ReversingAnArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "RichestCustomerWealth",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySearch_Recursion",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Rotation_Count",
+            "request": "launch",
+            "mainClass": "Rotation_Count",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Row_Col_Matrix",
+            "request": "launch",
+            "mainClass": "Row_Col_Matrix",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "RunningSumOfArray",
+            "request": "launch",
+            "mainClass": "RunningSumOfArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Rupees_into_USD",
+            "request": "launch",
+            "mainClass": "Rupees_into_USD",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SB",
+            "request": "launch",
+            "mainClass": "SB",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Search_In_Rotated_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Search_In_Rotated_Sorted_Array",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Search_in_2D_Matrix",
+            "request": "launch",
+            "mainClass": "Search_in_2D_Matrix",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SegmentTrees",
+            "request": "launch",
+            "mainClass": "SegmentTrees",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort_recursion",
+            "request": "launch",
+            "mainClass": "SelectionSort_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Selection_Sort",
+            "request": "launch",
+            "mainClass": "Selection_Sort",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleTheArray",
+            "request": "launch",
+            "mainClass": "ShuffleTheArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sieve",
+            "request": "launch",
+            "mainClass": "Sieve",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Simple_Interest",
+            "request": "launch",
+            "mainClass": "Simple_Interest",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Singly_LinkedList",
+            "request": "launch",
+            "mainClass": "Singly_LinkedList",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Skip_a_Character",
+            "request": "launch",
+            "mainClass": "Skip_a_Character",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Skip_a_String",
+            "request": "launch",
+            "mainClass": "Skip_a_String",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Skip_unique_Strings",
+            "request": "launch",
+            "mainClass": "Skip_unique_Strings",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SmallerThanCurrentNumber",
+            "request": "launch",
+            "mainClass": "SmallerThanCurrentNumber",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sol1",
+            "request": "launch",
+            "mainClass": "Sol1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sol2",
+            "request": "launch",
+            "mainClass": "Sol2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sol3",
+            "request": "launch",
+            "mainClass": "Sol3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sol4",
+            "request": "launch",
+            "mainClass": "Sol4",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_Array_Recursion",
+            "request": "launch",
+            "mainClass": "Sorted_Array_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_Matrix",
+            "request": "launch",
+            "mainClass": "Sorted_Matrix",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Split_Array_Largest_Sum",
+            "request": "launch",
+            "mainClass": "Split_Array_Largest_Sum",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Square_Root",
+            "request": "launch",
+            "mainClass": "Square_Root",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Square_Root2",
+            "request": "launch",
+            "mainClass": "Square_Root2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Squareroot_3",
+            "request": "launch",
+            "mainClass": "Squareroot_3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "StackInBuilt",
+            "request": "launch",
+            "mainClass": "StackInBuilt",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "StackMain",
+            "request": "launch",
+            "mainClass": "StackMain",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Stack_QueueusingDeque",
+            "request": "launch",
+            "mainClass": "Stack_QueueusingDeque",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "StackusingQueues",
+            "request": "launch",
+            "mainClass": "StackusingQueues",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Stairs",
+            "request": "launch",
+            "mainClass": "Stairs",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern10",
+            "request": "launch",
+            "mainClass": "Star_Pattern10",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern11",
+            "request": "launch",
+            "mainClass": "Star_Pattern11",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern12",
+            "request": "launch",
+            "mainClass": "Star_Pattern12",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern17",
+            "request": "launch",
+            "mainClass": "Star_Pattern17",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern21",
+            "request": "launch",
+            "mainClass": "Star_Pattern21",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern26",
+            "request": "launch",
+            "mainClass": "Star_Pattern26",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern27",
+            "request": "launch",
+            "mainClass": "Star_Pattern27",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern28",
+            "request": "launch",
+            "mainClass": "Star_Pattern28",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern30",
+            "request": "launch",
+            "mainClass": "Star_Pattern30",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern31",
+            "request": "launch",
+            "mainClass": "Star_Pattern31",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern32",
+            "request": "launch",
+            "mainClass": "Star_Pattern32",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern36",
+            "request": "launch",
+            "mainClass": "Star_Pattern36",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern5",
+            "request": "launch",
+            "mainClass": "Star_Pattern5",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern8",
+            "request": "launch",
+            "mainClass": "Star_Pattern8",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern9",
+            "request": "launch",
+            "mainClass": "Star_Pattern9",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Stock_Span",
+            "request": "launch",
+            "mainClass": "Stock_Span",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String_Length_Recursion",
+            "request": "launch",
+            "mainClass": "String_Length_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String_Linear_Search",
+            "request": "launch",
+            "mainClass": "String_Linear_Search",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String_Methods",
+            "request": "launch",
+            "mainClass": "String_Methods",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String_Methods2",
+            "request": "launch",
+            "mainClass": "String_Methods2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "String_Methods3",
+            "request": "launch",
+            "mainClass": "String_Methods3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayEqualK",
+            "request": "launch",
+            "mainClass": "SubArrayEqualK",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Subsequences",
+            "request": "launch",
+            "mainClass": "Subsequences",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Subset_Ascii_Recursion",
+            "request": "launch",
+            "mainClass": "Subset_Ascii_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Subset_Recursion",
+            "request": "launch",
+            "mainClass": "Subset_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SubtractProductAndSum",
+            "request": "launch",
+            "mainClass": "SubtractProductAndSum",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sudoku_Solver",
+            "request": "launch",
+            "mainClass": "Sudoku_Solver",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNnumbersUsingFunctions",
+            "request": "launch",
+            "mainClass": "SumOfNnumbersUsingFunctions",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_2_numbers",
+            "request": "launch",
+            "mainClass": "Sum_of_2_numbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sumof1ton_recursion",
+            "request": "launch",
+            "mainClass": "Sumof1ton_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sumof2NumbersusingFunction",
+            "request": "launch",
+            "mainClass": "Sumof2NumbersusingFunction",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumofDifferentNumbers",
+            "request": "launch",
+            "mainClass": "SumofDifferentNumbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigits",
+            "request": "launch",
+            "mainClass": "SumofDigits",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigits_recursion",
+            "request": "launch",
+            "mainClass": "SumofDigits_recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumofIntuntil0",
+            "request": "launch",
+            "mainClass": "SumofIntuntil0",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SumofTriangle_Recursion",
+            "request": "launch",
+            "mainClass": "SumofTriangle_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sumof_nNumbers",
+            "request": "launch",
+            "mainClass": "Sumof_nNumbers",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Sumofnthrow_inPascaltriangle",
+            "request": "launch",
+            "mainClass": "Sumofnthrow_inPascaltriangle",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "SwappingValuesInArray",
+            "request": "launch",
+            "mainClass": "SwappingValuesInArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Synchronization",
+            "request": "launch",
+            "mainClass": "Synchronization",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "T",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "TargetArrayFromGivenArray",
+            "request": "launch",
+            "mainClass": "TargetArrayFromGivenArray",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Tcs1",
+            "request": "launch",
+            "mainClass": "Tcs1",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Tcs2",
+            "request": "launch",
+            "mainClass": "Tcs2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Tcs3",
+            "request": "launch",
+            "mainClass": "Tcs3",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Temp",
+            "request": "launch",
+            "mainClass": "Temp",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Temp2",
+            "request": "launch",
+            "mainClass": "Temp2",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Temp_Conversion",
+            "request": "launch",
+            "mainClass": "Temp_Conversion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "TestNested",
+            "request": "launch",
+            "mainClass": "TestNested",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTest",
+            "request": "launch",
+            "mainClass": "ThreadTest",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Tree_Map",
+            "request": "launch",
+            "mainClass": "Tree_Map",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Triangle2_Recursion",
+            "request": "launch",
+            "mainClass": "Triangle2_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_Recursion",
+            "request": "launch",
+            "mainClass": "Triangle_Recursion",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Tv",
+            "request": "launch",
+            "mainClass": "Tv",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Undirected",
+            "request": "launch",
+            "mainClass": "Undirected",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Union_Intersection",
+            "request": "launch",
+            "mainClass": "Union_Intersection",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Unique_Element_using_Bit",
+            "request": "launch",
+            "mainClass": "Unique_Element_using_Bit",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Anagram",
+            "request": "launch",
+            "mainClass": "Valid_Anagram",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "VolumeofCone",
+            "request": "launch",
+            "mainClass": "VolumeofCone",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Vowel_Consonant",
+            "request": "launch",
+            "mainClass": "Vowel_Consonant",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "Water_Container",
+            "request": "launch",
+            "mainClass": "Water_Container",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "WeightedGraphs",
+            "request": "launch",
+            "mainClass": "WeightedGraphs",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "XorOf0_to_n",
+            "request": "launch",
+            "mainClass": "XorOf0_to_n",
+            "projectName": "Java Tutorials_c401e40a"
+        },
+        {
+            "type": "java",
+            "name": "XorOfa_to_b",
+            "request": "launch",
+            "mainClass": "XorOfa_to_b",
+            "projectName": "Java Tutorials_c401e40a"
+        }
+    ]
+}
